@@ -55,8 +55,8 @@ Install with venv:
 
 ## Meta
 
-Lucian – [@exaluc](https://twitter.com/exaluc)
+[Lucian BLETAN](https://github.com/gni)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[monitoring-vertica](https://github.com/odgon/monitoring-vertica)
+[monitoring-vertica](https://github.com/gni/monitoring-vertica)
